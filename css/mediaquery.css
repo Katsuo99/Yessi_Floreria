@@ -39,6 +39,9 @@
     flex-direction: column;
     justify-content: space-around;
 }
+.productos__info{
+    padding: 0;
+}
 /*------------------------------------------Footer-----------------------------------------------*/
 .footer{
     justify-content: center;
